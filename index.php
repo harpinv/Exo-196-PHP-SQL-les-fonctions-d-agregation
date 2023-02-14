@@ -28,7 +28,7 @@
     $server = 'localhost';
     $user = 'root';
     $pwd = '';
-    $db = 'bdd_cours';
+    $db = 'base_test';
 
     try {
 
